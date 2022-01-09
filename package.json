@@ -1,0 +1,14 @@
+{
+  "name": "jestcourse",
+  "version": "1.0.0",
+  "description": "jest course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Erika",
+  "license": "ISC"
+}
