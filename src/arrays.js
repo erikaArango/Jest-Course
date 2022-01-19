@@ -17,4 +17,4 @@ function carsList (){
      ]
  }
 
- module.exports = {carsList: carsList}
+ module.exports = {carsList: carsList, brandsList}
